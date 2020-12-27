@@ -1,0 +1,21 @@
+name: Eleventy Build
+on: 
+  push:
+    paths-ignore:
+      - README.md
+
+jobs:
+  build-deploy:
+    name: Eleventy Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Git Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        uses: TartanLlama/actions-eleventy@v1.1
+      - name: Deploy
+        run: peaceiris/actions-gh-pages@v1.1.0
+        env:
+          PUBLISH_DIR: _site 
+          PUBLISH_BRANCH: gh-pages
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
