@@ -1,7 +1,3 @@
----
-permalink: /css/default.css
-eleventyExcludeFromCollections: true
----
 
 body {
 	display: grid;
