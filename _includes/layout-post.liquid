@@ -4,12 +4,23 @@
         <meta charset="utf-8">
         <title>{{ pageTitle}}</title>
 		<link rel="stylesheet" href="/css/system.css">
+        <link rel="stylesheet" href="/css/neu.css">
     </head>
     <body>
-        <main class="text-content">
-            <h1>{{ pageTitle }}</h1>
+        <main class="menu-article">
+            <header>
+                <h1>{{ pageTitle }}</h1>
+            </header>
+            <nav class="menu neu-extrude">
+			    <ul>
+				    <li><a href="/">Posts</a></li>
+				    <li><a href="/links">Links</a></li>
+			    </ul>
+		    </nav>
+            <article class="neu-extrude text-content">
             {{ content }}
+                    <a href="/">Back to Home</a>
+            </article>
         <main>
-        <a href="/">Back to Home</a>
     </body>
 </html>
