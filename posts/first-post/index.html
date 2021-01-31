@@ -4,14 +4,25 @@
         <meta charset="utf-8">
         <title>This is my First Post</title>
 		<link rel="stylesheet" href="/css/system.css">
+        <link rel="stylesheet" href="/css/neu.css">
     </head>
     <body>
-        <main class="text-content">
-            <h1>This is my First Post</h1>
+        <main class="menu-article">
+            <header>
+                <h1>This is my First Post</h1>
+            </header>
+            <nav class="menu neu-extrude">
+			    <ul>
+				    <li><a href="/">Posts</a></li>
+				    <li><a href="/links">Links</a></li>
+			    </ul>
+		    </nav>
+            <article class="neu-extrude text-content">
             <p>This is the first post of the blog, currently built by <a href="https://www.11ty.dev/">eleventy</a>.</p>
 <p>This is my first real experience using eleventy.  I'm starting from scratch and landed on the <code>.liquid</code> templating.  I picked it mostly because that was what the tutorial I followed did and I needed to pick <em>something</em>.  I expect this site won't look good for a while and I'll need to learn a lot more to really get the value I want.  There's already so awkward things about the setup, but overall I'm like Eleventy so far.  It's a bit magic, but low config.</p>
 
+                    <a href="/">Back to Home</a>
+            </article>
         <main>
-        <a href="/">Back to Home</a>
     </body>
 </html>
