@@ -1,5 +1,6 @@
 ---
 pageTitle: Starting a New (kinda) Blog
+date: "2021-01-01T09:01:00Z"
 ---
 
 I decided to start, this, my new(ish) Blog.  I say -ish because in reality I'd like it to coalesce content I've already started writing in github and dev.to.  I have a number of goals in mind with this:
@@ -37,7 +38,7 @@ Perhaps most of all it's about breaking content silos.  I feel the web now kinda
 
 ---
 
-In the meantime expect a lot of contruction! 
+In the meantime expect a lot of construction! 
 
 <style>
 	#sign {

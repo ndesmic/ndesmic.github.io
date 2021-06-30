@@ -1,5 +1,6 @@
 ---
 pageTitle: "Halo CE: Revisiting 15 Years Later"
+date: "2021-01-01T09:46:00Z"
 ---
 
 Over Christmas I recieved the Master Chief Collection for PC.  It's been quite a while since I've played a Halo game having skipped the Xbox One X entirely.  Even though I'm not so excited for Halo Infinite at this point something did get me in the mood for Halo.  Lucky for me Microsoft ported it to the PC (well except 5, which is the only one I haven't played).  It's been interesting revisiting one of my favorite game series after so long, and especially the older ones which I haven't touched in at least a decade.

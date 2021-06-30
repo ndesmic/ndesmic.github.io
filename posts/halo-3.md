@@ -1,5 +1,6 @@
 ---
 pageTitle: "Halo 3: Revisiting 13 Years Later"
+date: 2021-01-01T9:48:00Z
 ---
 
 Halo 3 was an immediate story follow up to Halo 2's cliffhanger ending.  It was the first Halo game for the Xbox 360 and the first time most saw Halo in HD.

@@ -1,5 +1,6 @@
 ---
 pageTitle: "Halo Reach: Revisited"
+date: "2021-01-01T09:50:00Z"
 ---
 
 Reach was the end of an era.  Bungie had decided it wanted to be an independent studio from Microsoft and was starting to transition away.  Microsoft had started building a new studio 343 Industries that would take over the Halo brand which they retained ownership of.  Reach was in many ways Bungie's swan song for Halo, and they pulled out a lot of stops but at the same time gracefully folded back on the series legacy.  I was particularly excited for it knowing all this. They updated the engine and you can really tell it's a step above Halo 3.  Faces and animation took a big leap as did the lighting.  Levels were a little more seamless with less obvious loading zones.  It also takes a lot of queues from ODST.  There's more character drama, and you're almost always fighting with a few invincible buddies.  This time though they are proper Spartans.

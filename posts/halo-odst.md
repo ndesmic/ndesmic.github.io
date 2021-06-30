@@ -1,5 +1,6 @@
 ---
 pageTitle: "Revisiting Halo: ODST"
+date: "2021-01-01T09:49:00Z"
 ---
 
 Now for something completely different.  ODST was an expansion for Halo 3 turned whole game.  It takes place around the same time as Halo 2.  Instead of a Spartan you play as an ODST trooper trying to investigate what happened to his team.  It goes some different places.  The biggest is that health is a thing again and more prominent.  You can only take a few hits before it starts cutting into your life which need to be replenished with medkits you can find.  The game has a HUB world you explore to find missions, each telling the story of one of the ODST troopers.  It's much more story driven, or at least dramatized than the previous games.

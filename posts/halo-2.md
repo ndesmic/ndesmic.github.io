@@ -1,5 +1,6 @@
 ---
 pageTitle: "Halo 2: Revisiting 15 Years Later"
+date: "2021-01-01T09:47:00Z"
 ---
 
 Halo 2 was a very late Xbox game but it sure was a big one.

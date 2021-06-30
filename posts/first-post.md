@@ -1,5 +1,6 @@
 ---
 pageTitle: This is my First Post
+date: "2021-01-01T09:00:00Z"
 ---
 
 This is the first post of the blog, currently built by [eleventy](https://www.11ty.dev/).
