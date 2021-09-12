@@ -1,0 +1,19 @@
+---
+permalink: /rss.xml
+eleventyExcludeFromCollections: true
+---
+<rss version="2.0">
+	<channel>
+		<title>ndemsic blog</title> 
+		<link>https://nl.ndesmic.com</link>
+		<description>Ndesmic's blog of programming, video games and other stuff</description>
+		<language>en-us</language>
+		{% for post in collections.posts %}
+			<item>
+				<title>{{ post.data.pageTitle }}</title>
+				<link>{{ post.url }}</link>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
