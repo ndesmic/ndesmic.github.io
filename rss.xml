@@ -1,0 +1,69 @@
+<rss version="2.0">
+	<channel>
+		<title>ndemsic blog</title> 
+		<link>https://nl.ndesmic.com</link>
+		<description>Ndesmic's blog of programming, video games and other stuff</description>
+		<language>en-us</language>
+		
+			<item>
+				<title>This is my First Post</title>
+				<link>/posts/first-post/</link>
+				<pubDate>Fri, 01 Jan 2021 09:00:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Starting a New (kinda) Blog</title>
+				<link>/posts/starting-a-blog/</link>
+				<pubDate>Fri, 01 Jan 2021 09:01:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Halo CE: Revisiting 15 Years Later</title>
+				<link>/posts/halo-ce/</link>
+				<pubDate>Fri, 01 Jan 2021 09:46:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Halo 2: Revisiting 15 Years Later</title>
+				<link>/posts/halo-2/</link>
+				<pubDate>Fri, 01 Jan 2021 09:47:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Halo 3: Revisiting 13 Years Later</title>
+				<link>/posts/halo-3/</link>
+				<pubDate>Fri, 01 Jan 2021 09:48:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Revisiting Halo: ODST</title>
+				<link>/posts/halo-odst/</link>
+				<pubDate>Fri, 01 Jan 2021 09:49:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Halo Reach: Revisited</title>
+				<link>/posts/halo-reach/</link>
+				<pubDate>Fri, 01 Jan 2021 09:50:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Halo 4: Revisited</title>
+				<link>/posts/halo-4/</link>
+				<pubDate>Fri, 01 Jan 2021 09:51:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>Famicom Detective Club</title>
+				<link>/posts/famicom-detective-club/</link>
+				<pubDate>Sun, 27 Jun 2021 14:13:00 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>The Great Ace Attorney Chronicles</title>
+				<link>/posts/great-ace-attorney-chronicals/</link>
+				<pubDate>Sun, 29 Aug 2021 14:13:00 GMT</pubDate>
+			</item>
+		
+	</channel>
+</rss>
