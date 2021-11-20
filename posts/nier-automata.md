@@ -1,6 +1,6 @@
 ---
 pageTitle: "NieR: Automata"
-date: "11-10-2021T00:00:00Z"
+date: "2021-11-10T00:00:00Z"
 ---
 
 Nier is a series (or rather one game at the time) I had hear a lot about.  A cult-classic of sorts.  All I knew was the round smiley face mask which has now become a trademark of Yoko Taro when making public appearance and that it had a very pretty soundtrack. Of Automata specifically I was exposed to the protagonist 2B, whose design has reached pop-status in some places.  The game itself was pretty well liked by people at the time of release.  Since I didn't have a PS4 or Xbox One I did not play it at launch.  Later on the game was released on PC.  This release suffered from numerous problems that were common among Japanese PC ports at the time like performance issues and lack of ability to set custom resolutions.  It was several years later that the game was re-released for Microsoft Gamestore with fixes for those issues and after much fan outcry was updated on Steam as well.  This is the version I played.
