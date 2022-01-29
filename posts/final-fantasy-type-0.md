@@ -1,6 +1,6 @@
 ---
 pageTitle: "Final Fantasy Type-0"
-date: "2021-12-14T00:00:00Z"
+date: "2021-01-24T00:00:00Z"
 ---
 
 Like Final Fantasy 15, Final Fantasy Type-0 was part of the Fabula Nova Crystallis project, then called "Agito: Final Fantasy XIII".  It was to be a flagship title for Sony's PSP marking a real-effort Final Fantasy game.  It took a long time to come out and released toward the end of the PSP's life.  As such it's probably one of the largest PSP games in terms of scope.  I always wanted to play it but for whatever reason I never got it on PSP.  So I decided to purchase the HD version for PC.  My first impression is that it was a quick port.  I know for sure many things were up-res'd but the game really shows it's PSP roots and the config screen before playing feels very amateurish.  Not a great first impression.
@@ -11,4 +11,4 @@ The gameplay is a big mixed bag.  You get to use 3 of 14 students at a time, eac
 
 I got through most of the game but eventually you start hitting walls.  Basically if you haven't been keeping your level up with side-quests (because they are so boring) then you come into the next mission under-leveled.  This is bad because it means enemies kill you instantly.  While you can still dodge attacks and make progress it becomes a huge grind.  At about the last chapter it got to be more than I could bear.  Grinding to level-up was not fun, you've already seen the same 6 or 7 enemies and I had hours of grid ahead to hit the level recommendation.  I was pretty much done with it, there wasn't anything interesting enough to keep playing.
 
-Overall, I it's a very flawed game.  It's a bit tragic since you can see the parts that had a lot of work put into them.  It was not a cheap portable game and yet I feel they made all the wrong trade-offs.  They went for lots of fancy cut-scenes and production values which aged poorly when what they really needed was the fundamentals.  The problem is the gameplay has some good ideas but it's just not executed well at all and that's a damn shame and I honestly can't recommend revisiting it.
+Overall, it's a very flawed game.  It's a bit tragic since you can see the parts that had a lot of work put into them.  It was not a cheap portable game and yet I feel they made all the wrong trade-offs.  They went for lots of fancy cut-scenes and production values which aged poorly when what they really needed was the fundamentals.  The problem is the gameplay has some good ideas but it's just not executed well at all and that's a damn shame and I honestly can't recommend revisiting it.
