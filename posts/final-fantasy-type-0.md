@@ -1,6 +1,6 @@
 ---
 pageTitle: "Final Fantasy Type-0"
-date: "2021-01-24T00:00:00Z"
+date: "2022-01-24T00:00:00Z"
 ---
 
 Like Final Fantasy 15, Final Fantasy Type-0 was part of the Fabula Nova Crystallis project, then called "Agito: Final Fantasy XIII".  It was to be a flagship title for Sony's PSP marking a real-effort Final Fantasy  (as opposed to say ports).  It took a long time to come out and released toward the end of the PSP's life.  As such it's probably one of the largest PSP games in terms of scope.  I always wanted to play it but for whatever reason I never got it on PSP.  So recently, I decided to purchase the HD version for PC.  My first impression is that it was a quick port.  I know for sure many things were up-res'd but the game really shows it's PSP roots and the config screen before playing feels very amateurish.  Not a great first impression.

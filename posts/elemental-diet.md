@@ -1,6 +1,6 @@
 ---
 pageTitle: "Elemental Diet"
-date: "2021-01-24T00:00:01Z"
+date: "2022-01-24T00:00:01Z"
 ---
 
 My partner has chronic IBS, basically to the degree of being non-functional.  Going places can be a lot of planning, where to find toilets, what things we can eat or not eat, should we fast before-hand to make sure there is less chance of issues.  This has been going on for a few years now and after trying several different diets and medications we decided to do an elemental diet.  An element diet is an extremely strict diet in which you can only drink special "medical food" shakes.  These consist of amino-acids (en lieu of direct protien), glucose, MCT fats and vitamins.  Basically everything you need to functionally survive while eliminating fiber or complex carbs that feed bacteria in the intestine.  The idea is that because everything is essentially pre-digested you will absorb it quickly and nothing will make it down to the bacteria in the lower intestine which can overgrow (SIBO) and cause things like gas or inflame the intestine.  So you're trying to kill off bad bacteria that has taken up residency by starving it.
