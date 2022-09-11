@@ -1,4 +1,3 @@
-
 ---
 pageTitle: "Danganronpa"
 date: "2022-02-18T00:00:01Z"
