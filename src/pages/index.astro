@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/layout-home.astro";
+const posts = (await getCollection("posts")).map((post) => {
+	const date = new Date(post.data.date);
+	return {
+		...post,
+		friendlyDate: date.toISOString().split("T")[0],
+	};
+});
+---
+
+<Layout title="Ndesmic Blog">
+	<h2>Posts</h2>
+	<ul>
+		{
+			posts
+				.toSorted((a, b) => a.data.date - b.data.date)
+				.reverse()
+				.map((post) => {
+					return (
+						<li>
+							<a href={`/posts/${post.slug}`}>{post.data.title}</a>
+							<em>{post.friendlyDate}</em>
+						</li>
+					);
+				})
+		}
+	</ul>
+</Layout>

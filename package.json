@@ -1,16 +1,16 @@
 {
-  "name": "ndesmic",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "ndesmic-blog",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "build": "eleventy",
-    "dev": "eleventy --serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+  "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "astro": "^4.15.11"
   }
 }
