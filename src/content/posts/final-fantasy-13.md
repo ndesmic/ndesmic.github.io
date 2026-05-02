@@ -1,6 +1,6 @@
 ---
 title: "Final Fantasy 13"
-date: "2025-12-14T00:00:00Z"
+date: "2025-12-14T00:00:04Z"
 ---
 
 Final Fantasy 13 was a weird time for Square Enix.  It was their first really HD effort but they were constantly trying to one-up themselves on production values.  It was also a time when big cross-media franchises were getting launched.  The result was Fabula Nova Crystallis which is a semi-shared mythology that links a bunch of side games with Final Fantasy 13 being the flagship game.  It ran into development difficulties of both vision and technology (HD towns are hard), taking a long time to release and ultimately I don't think it recovered from that.

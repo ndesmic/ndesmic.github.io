@@ -1,6 +1,6 @@
 ---
 title: "Final Fantasy 10: HD Remaster"
-date: "2025-12-14T00:00:00Z"
+date: "2025-12-14T00:00:01Z"
 ---
 
 ## Intro

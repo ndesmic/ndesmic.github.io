@@ -1,6 +1,6 @@
 ---
 title: "Final Fantasy 13-2"
-date: "2025-12-14T00:00:00Z"
+date: "2025-12-14T00:00:05Z"
 ---
 
 To first start off, I'll say the PC port is bad.  Like really bad.  The first time I booted it up I got this loud buzzing noise.  After looking stuff up online you need to disable surround and audio effects on the output device.  I did that and while it go rid of the buzzing there was sound in cutscenes but not normal gameplay.  I decided to just play to the first save point before exiting but the game crashed.  Looking more stuff up, the crashing can be due to using steam cloud saves, so I turned that off.  I also applied a patch that lets the game allocate more than 2GB of memory because that can crash too.  The sound still didn't work so I quit which caused the application to freeze but it constantly drew mouse focus from the task manager so all I was left with was to reset my PC.  Eventually I disabled my audio device manager and that fixed the sound issue and I just had to play it in windowed mode to prevent the fullscreen crashing.  Apparently, (and I noticed this from FF13) the game has stuttering issues which are caused by bad allocation, frame buffering and constantly polling for input devices.  There are fan patches to fix this too.  Good to know.  This is why I hate PC gaming.

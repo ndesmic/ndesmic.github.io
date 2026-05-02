@@ -1,6 +1,6 @@
 ---
 title: "Final Fantasy 12: The Zodiac Age"
-date: "2025-12-14T00:00:00Z"
+date: "2025-12-14T00:00:03Z"
 ---
 
 Final Fantasy 12 was a very late PS2 game and as such I didn't play it because all of my friends who had them had mostly stopped playing their PS2.  I remember being rather surprised by the promo art though.  I think a lot of people expected something more like Final Fantasy 10 but instead it went back to more steampunk fantasy.  This time it focused on Ivalice, a shared world under the Final Fantasy banner.  This was originally used in Final Fantasy Tactics (and Vagrant Story which I never got very far in) although it would be reprised in Final Fantasy Tactics Advance and Final Fantasy 12 is much closer to that version.  But I always thought the new races they added were boring and ugly and it unfortunate they when with that.
